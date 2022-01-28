@@ -1,0 +1,29 @@
+name: MessingWithFriends
+version: '${project.version}'
+main: me.will.messingwithfriends.MessingWithFriends
+api-version: 1.18
+commands:
+  die:
+    description: easy death
+    usage: /<command>
+  god:
+    description: god mode
+    usage: /<command>
+  print:
+    description: config print
+    usage: /<command>
+  changeFood:
+    description: sets food
+    usage: /<command> parameter
+  toggleTP:
+    description: toggles TP
+    usage: /<command>
+  backTP:
+    description: .
+    usage: /<command>
+  setProbMod:
+    description: .
+    usage: /<command>
+  getProbMod:
+    description: .
+    usage: /<command>

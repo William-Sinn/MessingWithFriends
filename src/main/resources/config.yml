@@ -1,0 +1,10 @@
+Food: "Potato"
+Number: 125
+AutoTP: true
+ProbabilityMod: 1
+Location:
+FoodList:
+  - "pizza"
+  - "orange"
+  - "grape"
+
